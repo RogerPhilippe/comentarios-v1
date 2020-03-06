@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+Exemplo de um sistema de comentários utilizando Vue JS.
+Referência: https://www.youtube.com/watch?v=cSa-SMVMGsE&t=17s
